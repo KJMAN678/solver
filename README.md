@@ -21,4 +21,27 @@ http://www.nct9.ne.jp/m_hiroi/light/pulp01.html
 |---|---|---|---|---|
 |工場 x|10|6|16|8|
 |工場 y|8|8|4|16|
-|需要量|12|4|8||	
+|需要量|12|4|8||
+
+### その他参考情報
+
+- 上智大学 宮本裕一郎氏 サイト  
+https://www.miyamotolab.org/lectures/autumn_winter
+
+- 東京工業大学 水野研究所 サイト
+http://www.me.titech.ac.jp/~mizu_lab/text.html
+
+- Pythonによる図形詰込みアルゴリズム入門
+http://www.orsj.or.jp/archive2/or63-12/or63_12_762.pdf
+
+- 整数計画法による定式化入門
+http://web.tuat.ac.jp/~miya/fujie_ORSJ.pdf
+
+- しっかり学ぶ数理最適化 モデルからアルゴリズムまで
+https://www.amazon.co.jp/dp/4065212707
+
+- しっかり学ぶ数理最適化 サポートページ（正誤表、参考情報等）
+https://sites.google.com/view/introduction-to-optimization/main
+
+- Model Building in Mathematical Programming 5e
+https://www.amazon.co.jp/dp/1118443330
